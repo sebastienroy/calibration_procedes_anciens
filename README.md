@@ -19,6 +19,8 @@ Le nom du répertoire qui contient tout cela doit être facilement identifiable.
 Par exemple  
 `20230909_VanDyke_4min`  
 
+Profils disponibles:  
+[Cyanotype, 3 minutes](tree/main/profils/20230909_cyanotype_3min)  
 
 
 
