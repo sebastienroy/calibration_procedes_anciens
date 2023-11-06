@@ -17,7 +17,7 @@ Chaque répertoire doit contenir
 Le nom du répertoire qui contient tout cela doit être facilement identifiable. Il est composé comme suit :  
  `<Date de tirage format aaaammjj>_<Descriptif du procédé>_<Durée d' insolation>`  
 Par exemple  
-`20231003_VanDyke_4min`  
+`20230909_VanDyke_4min`  
 
 
 
