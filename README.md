@@ -20,7 +20,10 @@ Par exemple
 `20230909_VanDyke_4min`  
 
 Profils disponibles:  
-[Cyanotype, 3 minutes](tree/main/profils/20230909_cyanotype_3min)  
+[09/09/2023 Cyanotype, 3 minutes](profils/20230909_cyanotype_3min)  
+[09/09/2023 Cyanotype, 4 minutes](profils/20230909_cyanotype_4min)  
+[09/09/2023 Van Dyke, 3 minutes](profils/20230909_vandyke_3min)  
+[09/09/2023 Van Dyke, 4 minutes](profils/20230909_cyanotype_3min)  
 
 
 
